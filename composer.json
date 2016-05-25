@@ -1,0 +1,18 @@
+{
+    "name": "mrofi/shipping-cost",
+    "description": "This package only provide interface",
+    "homepage": "https://github.com/mrofi/shipping-cost",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mokhamad Rofiudin",
+            "email": "mokh.rofiudin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mrofi\\ShippingCost\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
